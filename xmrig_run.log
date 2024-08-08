@@ -1,0 +1,5 @@
+[2024-08-08 19:05:55.050] unable to open "/data/data/com.termux/files/home/xmrig/build/config.json".
+[2024-08-08 19:05:55.051] $XMIRIG_PATH --url $POOL_URL:$PORT --user $WALLET_ADDRESS --pass $POOL_PASSWORD --log-file /data/data/com.termux/files/home/xmrig/build/mining.log -v
+[2024-08-08 19:05:55.051] ^
+[2024-08-08 19:05:55.051] /data/data/com.termux/files/home/.config/xmrig.json<line:1, position:1>: "Invalid value."
+[2024-08-08 19:05:55.051] no valid configuration found, try https://xmrig.com/wizard
